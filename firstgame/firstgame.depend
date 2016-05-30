@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1463575308 source:d:\c++\firstgame\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+
